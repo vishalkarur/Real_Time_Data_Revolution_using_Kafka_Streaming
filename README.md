@@ -16,5 +16,5 @@
 
 ## Dataset Used
 
-Here is the dataset used in the project - https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv
+Here is the dataset used in the project - https://github.com/vishalkarur/Real_Time_Data_Revolution_using_Kafka_Streaming/blob/main/indexProcessed.csv
 
